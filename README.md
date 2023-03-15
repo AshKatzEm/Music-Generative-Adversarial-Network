@@ -3,4 +3,4 @@
 
 <br/>
 
-### The model will be trained with the whole million song data set http://millionsongdataset.com/
+### The model will be trained with the whole million song dataset http://millionsongdataset.com/
